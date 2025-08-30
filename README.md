@@ -29,8 +29,8 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="140" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="140" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=seyitbulat&show_icons=true&theme=transparent" height="140" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyitbulat&layout=compact&theme=transparent" height="140" />
 </p>
 
 ---
